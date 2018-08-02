@@ -1,5 +1,4 @@
 # plog project
 
-## TODO
-
-- [ ] API-DOCS
+- kanban
+- api-docs
