@@ -1,0 +1,10 @@
+{
+  "id": "aqwsedrftgyhuj1234",
+  "profile": {
+    "nickname": "hoge",
+    "avatar": {
+      "image_path": "/path/to/image.png",
+      "image_url": "https://hostname.domain/path/to/image.png"
+    }
+  }
+}
